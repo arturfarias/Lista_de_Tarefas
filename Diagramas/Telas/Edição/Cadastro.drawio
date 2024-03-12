@@ -1,0 +1,46 @@
+<mxfile host="Electron" modified="2024-03-12T06:54:51.135Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="-qFzDD-oQD5JJ9mHtoDY" version="23.1.5" type="device">
+  <diagram name="Page-1" id="bINPrWWKYaWzHOHRJIdD">
+    <mxGraphModel dx="836" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3ZL1Tjc2D25S1oqH2oYp-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="520" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZL1Tjc2D25S1oqH2oYp-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="80" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZL1Tjc2D25S1oqH2oYp-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="75" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZL1Tjc2D25S1oqH2oYp-41" value="&lt;br&gt;1) Se usuario não existir e ambas as senhas sejam a mesma realizar o cadastro e redirecionar para a tela de login.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="105" width="220" height="345" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZL1Tjc2D25S1oqH2oYp-99" value="Usuario" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="200" y="189" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZL1Tjc2D25S1oqH2oYp-100" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="200" y="207" width="160" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZL1Tjc2D25S1oqH2oYp-101" value="Password" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="210" y="225" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZL1Tjc2D25S1oqH2oYp-102" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="200" y="281" width="160" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZL1Tjc2D25S1oqH2oYp-103" value="Repetir Password" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="250" y="261" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZL1Tjc2D25S1oqH2oYp-104" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="200" y="243" width="160" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZL1Tjc2D25S1oqH2oYp-110" value="Cadastrar" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;whiteSpace=wrap;strokeColor=#404040;" vertex="1" parent="1">
+          <mxGeometry x="224.5" y="313" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZL1Tjc2D25S1oqH2oYp-111" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
